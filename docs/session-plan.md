@@ -1,6 +1,6 @@
 # Session Plan (Website Only)
 
-## Modules
+
 1. Fundamentals
 2. Navigation
 3. Repository creation
@@ -9,7 +9,6 @@
 6. Branches
 7. Pull Requests
 8. Issues
-9. Projects
-10. Actions
+
 11. Releases and Settings
 Let me conclude Azure this week by sacrificing something may be may not be 
