@@ -12,3 +12,4 @@
 9. Projects
 10. Actions
 11. Releases and Settings
+Let me conclude Azure this week by sacrificing something may be may not be 
